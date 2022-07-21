@@ -1,6 +1,12 @@
 *{
     padding: 0;
     margin: 0;
+
+
+}
+
+body{
+    margin-bottom: 10rem;
 }
 
 h1, h2, h3{
@@ -10,6 +16,16 @@ h1, h2, h3{
 a {
     text-decoration: none;
     margin: 1rem;
+    color: black;
+    transition: all 200ms;
+   
+}
+
+a:hover{
+    color: rgb(209, 160, 26);
+    font-weight: bold;
+
+ 
 }
 
 .recipe{
@@ -23,4 +39,10 @@ a {
 li{
     margin-left: 2rem;
     text-decoration: none;
+    margin-bottom: 1rem;
+}
+
+.logo{
+    width: 10rem;
+
 }
