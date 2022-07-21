@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3{
+    margin: 1rem;
+}
+
+a {
+    text-decoration: none;
+    margin: 1rem;
+}
+
+.recipe{
+    width: 20rem;
+    border-radius: 2rem;
+    box-shadow: 0rem .3rem .3rem rgba(0, 0, 0, .5);
+    margin: 1rem;
+}
+
+
+li{
+    margin: 1rem;
+    text-decoration: none;
+}
